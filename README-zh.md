@@ -652,6 +652,7 @@ Awesome Mac
 * [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。![Freeware][Freeware Icon]
 * [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。![Freeware][Freeware Icon]
 * [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。![Freeware][Freeware Icon]
+* [阿里云盘](https://www.aliyundrive.com) - 阿里云盘，公测中。![Freeware][Freeware Icon]
 
 ## 输入法
 
